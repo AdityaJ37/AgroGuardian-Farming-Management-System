@@ -1,4 +1,5 @@
 AgroGuardian-Farming Management System
+
 This project addresses the critical challenges faced by farmers in selecting the appropriate crops and fertilizers for their land. The system employs advanced machine learning algorithms and IoT technology to provide accurate recommendations, thereby enhancing agricultural productivity.
 
 The core components of the project include:
